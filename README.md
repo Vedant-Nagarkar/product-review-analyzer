@@ -13,7 +13,8 @@ An end-to-end NLP pipeline that analyzes Amazon product reviews using **4 models
 
 ## 🚀 Live Demo
 
-> Coming soon on HuggingFace Spaces
+> 🚀 [Live on HuggingFace Spaces]
+> (https://huggingface.co/spaces/Ved2001/pranalyzer)
 
 ---
 
